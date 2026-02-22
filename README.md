@@ -1,2 +1,2 @@
 # Books
-The repo is a holy grail for all guys who want to learn 
+The repo is a collection of books that I found interesting to read in the near future
